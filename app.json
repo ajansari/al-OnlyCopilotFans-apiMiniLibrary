@@ -1,0 +1,26 @@
+{
+  "id": "06a0b195-0da7-49be-9f55-63fedf76fa1a",
+  "name": "Business Central API Collection",
+  "publisher": "OnlyCopilotFans",
+  "description": "Library of Business Central API Pages for Integration use",
+  "version": "1.2.0.0",
+  "runtime": "15.0",
+  "target": "Cloud",
+  "application": "26.0.0.0",
+  "platform": "26.0.40313.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "features": [
+    "NOIMPLICITWITH"
+  ],
+  "idRanges": [
+    {
+      "from": 90500,
+      "to": 90599
+    }
+  ]
+}
